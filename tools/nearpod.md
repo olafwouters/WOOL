@@ -8,15 +8,13 @@ Nearpod is een formatieve tool die gebruikt kan worden in de les om interactie t
 <p><a href="https://vimeo.com/444560128">What Is Nearpod?</a> from <a href="https://vimeo.com/nearpod">Nearpod</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
   
 
-<details>
 <ul>
 <summary>  <li> Nearpod draw (click to open) </li> </summary>
 <br>
 Nearpod draw is een tool in Nearpod om studenten op een individueel whiteboard te laten werken. De docent kijk - vrijwel - in realtime mee.
 </ul>
-</details>
 
-<details>
+
 <ul>
 <summary> <li> Nearpod time-to-climb (click to open) </li> </summary>
 <br>
@@ -26,7 +24,6 @@ Nearpod time-to-climb kan gebruikt worden een competitief element toe te voegen 
 <p><a href="https://vimeo.com/349129254">How-to Create a Time to Climb Activity on Nearpod</a> from <a href="https://vimeo.com/nearpod">Nearpod</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 </ul>
-</details>
 
 <br>
 <br>
