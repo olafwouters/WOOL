@@ -7,5 +7,5 @@ Hieronder kun je verschillende tools vinden:
 
 **Tools:**  
 [Nearpod](.\tools\nearpod.html)  
-[MSWhiteboard](.\tools\mswhiteboard.html)  
+[MSWhiteboard](.\tools\mswhiteboard.html)
 
