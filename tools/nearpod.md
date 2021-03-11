@@ -16,7 +16,7 @@ Nearpod draw is een tool in Nearpod om studenten op een individueel whiteboard t
 </details>
 
 <details>
-<summary> <ul><li> Nearpod time-to-climb (click to open) </li></ul> </summary>
+<summary> <ul> <li> Nearpod time-to-climb (click to open) </li></ul> </summary>
 <br>
 Nearpod time-to-climb kan gebruikt worden een competitief element toe te voegen aan de les. De tool lijkt hierin erg op Kahoot! De studenten krijgen kort de tijd om vragen te beantwoorden, en studenten die snel het juiste antwoord geven krijgen meer punten toegekend. Je ziet dit visueel doordat het figuur van deze student hoger de berg op klimt, daarnaast worden er ook punten toegekend.
 <br>
