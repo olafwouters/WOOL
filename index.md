@@ -4,4 +4,4 @@
 Dit is slechts een placeholder om te leren hoe markdown werkt.
 
 
-[Nearpod](./nearpod.html)
+[Nearpod](.nearpod//nearpod.html)
