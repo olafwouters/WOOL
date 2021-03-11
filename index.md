@@ -4,7 +4,5 @@
 Dit is slechts een placeholder om te leren hoe markdown werkt.
 
 **Tools:**
-[Nearpod](nearpod\nearpod.html)
-=======
-[Nearpod](/nearpod/nearpod.html)
+[Nearpod](.\nearpod\nearpod.md)
 
