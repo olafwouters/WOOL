@@ -6,4 +6,6 @@ Microsoft whiteboard is een tool welke gebruikt kan worden in de les om interact
 <summary> - Microsoft whiteboard (klik om te openen) </summary>
 <br>
 Microsoft whiteboard is een tool waarmee studenten samen kunnen werken op een whiteboard. De docent kan van tevoren meerdere whiteboard aanmaken en met de studenten meekijken.
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vb3JlDOeJX0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </details>

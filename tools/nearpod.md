@@ -7,7 +7,8 @@ Nearpod is een formatieve tool die gebruikt kan worden in de les om interactie t
 <iframe src="https://player.vimeo.com/video/444560128" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/444560128">What Is Nearpod?</a> from <a href="https://vimeo.com/nearpod">Nearpod</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
   
-
+    
+Onderstaande lijst geeft de verschillende tools weer die bij ILST gebruikt worden:
 <details>
 <summary> <ul> <li> Nearpod draw (click to open) </li></ul> </summary>
 <br>
