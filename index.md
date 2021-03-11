@@ -3,5 +3,5 @@
 
 Dit is slechts een placeholder om te leren hoe markdown werkt.
 
-
-[Nearpod](.nearpod//nearpod.html)
+**Tools**
+[Nearpod](.nearpod/nearpod.html)
