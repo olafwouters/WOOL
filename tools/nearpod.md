@@ -2,7 +2,9 @@
 ## You’ll wonder how you taught without it
 
 Nearpod is een formatieve tool die gebruikt kan worden in de les om interactie tussen studenten en tussen docent-student te bevorderen.
-
+<br>
+<iframe src="https://player.vimeo.com/video/444560128" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/444560128">What Is Nearpod?</a> from <a href="https://vimeo.com/nearpod">Nearpod</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <details>
 <summary> <ul> <li> Nearpod draw (click to open) </li> </summary>
 <br>
@@ -21,5 +23,3 @@ Nearpod time-to-climb kan gebruikt worden een competitief element toe te voegen 
 
 <br>
 <br>
-<iframe src="https://player.vimeo.com/video/444560128" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/444560128">What Is Nearpod?</a> from <a href="https://vimeo.com/nearpod">Nearpod</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
