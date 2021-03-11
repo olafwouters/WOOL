@@ -6,6 +6,6 @@ Docent bij de hanze, betrokken bij het gebruik van digitale tools in het onderwi
 Hieronder kun je verschillende tools vinden:  
 
 **Tools:**  
-[Nearpod](.\tools\nearpod.html)
-[MicrosoftWhiteboard] (.\tools\mswhiteboard.html)
+[Nearpod](.\tools\nearpod.html)  
+[MicrosoftWhiteboard] (.\tools\mswhiteboard.html)  
 

@@ -1,7 +1,7 @@
 ## Microsoft whiteboard
 # You’ll wonder how you taught without it
 
-Microsoft whiteboard is een tool welke gebruikt kan worden in de les om interactie tussen studenten en tussen docent-student te bevorderen.
+Microsoft whiteboard is een tool welke gebruikt kan worden in de les om interactie tussen studenten en tussen docent-student te bevorderen. Deze tools kan gebruikt worden om studenten ideeën te laten visualiseren.
 
 <details>
 <summary> Microsoft whiteboard  </summary>
